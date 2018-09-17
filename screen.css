@@ -9,12 +9,12 @@
  */
 .bg-header {
   background: url(http://i50.photobucket.com/albums/f323/alchemist257/thirdbg_zpsowawyfcj.jpg) center center no-repeat;
-  background-attachment: fixed; background-color: black;
+  background-attachment: fixed; background-color: black; background-size: cover;
 }
 
 .bg-quote {
   background: url(http://i50.photobucket.com/albums/f323/alchemist257/IMG_7911_zpssiic9vl1.jpg) center center no-repeat;
-  background-attachment: fixed; background-color: black;
+  background-attachment: fixed; background-color: black; background-size: cover;
 }
 
 /*load custom fonts*/
