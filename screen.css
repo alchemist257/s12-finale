@@ -9,7 +9,8 @@
  */
 .bg-header {
   background: url(http://i50.photobucket.com/albums/f323/alchemist257/thirdbg_zpsowawyfcj.jpg) center center no-repeat;
-  background-attachment: fixed; background-color: black; background-size: cover;
+  background-attachment: fixed; background-color: black; background-size: cover; font-family: Notable;
+
 }
 
 .bg-quote {
@@ -17,12 +18,4 @@
   background-attachment: fixed; background-color: black; background-size: cover;
 }
 
-/*load custom fonts*/
 
-.font-serif {
-
-    font-family: 'Roboto Slab', serif;
-}
-.font-serif {
-    font-family: 'Playfair Display', serif;
-}

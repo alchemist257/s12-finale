@@ -45,3 +45,18 @@ main {
   color: #fff;
 }
 
+/*load custom fonts*/
+
+.font-serif {
+
+    font-family: 'Roboto Slab', serif;
+}
+.font-serif {
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+.font-serif {
+    font-family: 'Notable', sans-serif;
+}
