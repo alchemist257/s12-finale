@@ -43,6 +43,8 @@ main {
 .content-overlay p {
   text-align: center;
   color: #fff;
+  font-family: 'Roboto Slab';
+
 }
 
 /*load custom fonts*/
